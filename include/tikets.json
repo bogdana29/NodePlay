@@ -1,0 +1,22 @@
+{
+    "tiket1" : {
+       "title" : "Add user",
+       "description" : "Tiket description 1",
+       "iduser" : 1,
+       "id": 1
+    },
+    
+    "tiket2" : {
+       "title" : "Set group acces",
+       "description" : "Tiket description 2",
+       "iduser" : 1,
+       "id": 2
+    },
+    
+    "tiket3" : {
+       "title" : "List all ",
+       "description" : "Tiket description 3",
+       "iduser" : 2,
+       "id": 3
+    }
+ }
