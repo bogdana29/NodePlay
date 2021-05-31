@@ -3,7 +3,7 @@ Users api
 
 Manage user accounts. 
 
-List of users accounts according tu filters.
+User lists according to various filters.
 
 Add/Modify/Delete user account and adjacent data.
 
